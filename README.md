@@ -1,16 +1,57 @@
-## Hi there 👋
+# Hola!
 
-<!--
-**jorguz07/jorguz07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a computational biologist and data scientist with a background in physics and applied mathematics.
+I work on statistical modeling, machine learning and mechanistic approaches for biomedical data, with a focus on interpretability.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Interests
+
+- Statistical and machine learning methods for omics data  
+- Network modeling and inference  
+- Hybrid mechanistic / data-driven models  
+- Mathematical modeling using ODEs  
+- Reproducible research workflows  
+
+---
+
+## Background
+
+- PhD (candidate) in Computational Biology / Data Science
+- M.Sc. in Mathematical Modeling  
+- B.Sc. in Physics Engineering  
+
+---
+
+## Selected Projects
+
+### Drug Synergy Prediction
+End-to-end ML pipeline for drug combination data.  
+Focus: modeling, validation, modularization.
+
+→ https://github.com/jorguz07/biomlproject
+
+### Network Inference in Biology
+Implementation of classical network reconstruction algorithms on toy and real-world datasets.
+
+→ [Link]
+
+### Adaptive Transport Networks (ODE Models)
+Modeling of biological transport networks in vascular systems using differential equations.
+
+→ https://github.com/jorguz07/BloodNets
+
+---
+
+## Current Focus
+
+- Improving project structure and modularization
+- Adding testing and documentation 
+- Deep learning with PyTorch
+
+---
+
+## Contact
+
+LinkedIn: www.linkedin.com/in/jorguz-jma
+GitHub: https://github.com/jorguz07
