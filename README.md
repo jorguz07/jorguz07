@@ -31,13 +31,13 @@ Focus: modeling, validation, modularization.
 
 <img width="403" height="273" alt="output" src="https://github.com/user-attachments/assets/8a744923-c50f-4bb7-bd17-8de29d3e9118" />
 
-→ [Check it out!](https://github.com/jorguz07/biomlproject)
+→ [Check it out!](https://github.com/jorguz07/drugsynergy)
 
 ### Network Inference in Biology
 Implementation of classical network reconstruction algorithms
 Focus: network inference, comparison, benchmarking
 
-→ [Take a peek](https://github.com/jorguz07/biomlproject)
+→ [Take a peek](https://github.com/jorguz07/NetReeng)
 
 ### Modeling of Adaptive Transport Networks in Biology
 Simulation of vascularity in network systems
