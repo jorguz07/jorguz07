@@ -1,4 +1,4 @@
-# Hola!
+# Hola! 🌮
 
 I'm a computational biologist and data scientist with a background in physics and applied mathematics.
 
@@ -29,19 +29,21 @@ I work on statistical modeling, machine learning and mechanistic approaches for 
 End-to-end ML pipeline for drug combination data 
 Focus: modeling, validation, modularization.
 
-→ https://github.com/jorguz07/biomlproject
+<img width="755" height="490" alt="output" src="https://github.com/user-attachments/assets/7f6a25ae-c50f-4b48-b06e-71dfd958dca3" />
+
+→ [Check it out!] (https://github.com/jorguz07/biomlproject)
 
 ### Network Inference in Biology
 Implementation of classical network reconstruction algorithms
 Focus: network inference, comparison, benchmarking
 
-→ [Link]
+→ [Take a peek](https://github.com/jorguz07/biomlproject)
 
 ### Modeling of Adaptive Transport Networks in Biology
 Simulation of vascularity in network systems
 Focus: optimization and ODE modeling, numerical implementation
 
-→ https://github.com/jorguz07/BloodNets
+→ [Let's go](https://github.com/jorguz07/BloodNets])
 
 ---
 
