@@ -43,7 +43,7 @@ Focus: network inference, comparison, benchmarking
 Simulation of vascularity in network systems
 Focus: optimization and ODE modeling, numerical implementation
 
-→ [Let's go](https://github.com/jorguz07/BloodNets])
+→ [Let's go](https://github.com/jorguz07/BloodNets)
 
 ---
 
