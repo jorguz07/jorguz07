@@ -29,7 +29,7 @@ I work on statistical modeling, machine learning and mechanistic approaches for 
 End-to-end ML pipeline for drug combination data 
 Focus: modeling, validation, modularization.
 
-<img width="764" height="610" alt="drug_interaction_network" src="https://github.com/user-attachments/assets/0d8e3931-e0d9-4e2d-9261-0d39eb1419be" />
+<img width="459" height="365" alt="drug_interaction_network" src="https://github.com/user-attachments/assets/507f359e-0a50-425a-b89f-7dfd9da7934c" />
 
 
 → [Check it out!](https://github.com/jorguz07/drugsynergy)
