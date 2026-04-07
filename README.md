@@ -11,7 +11,7 @@ I work on statistical modeling, machine learning and mechanistic approaches for 
 - Statistical and machine learning methods for omics data  
 - Network modeling and inference  
 - Hybrid mechanistic / data-driven models
-- Reproducible research workflows  
+- Reproducible workflows  
 
 ---
 
@@ -26,8 +26,8 @@ I work on statistical modeling, machine learning and mechanistic approaches for 
 ## Selected Projects
 
 ### Drug Synergy Prediction 💊🧬
-End-to-end ML pipeline for drug combination data 
-Focus: modeling, validation, modularization.
+End-to-end ML pipeline for drug combination data
+Focus: project structure, modularization, good coding practices
 
 <img width="459" height="365" alt="drug_interaction_network" src="https://github.com/user-attachments/assets/507f359e-0a50-425a-b89f-7dfd9da7934c" />
 
@@ -36,7 +36,7 @@ Focus: modeling, validation, modularization.
 
 ### Network Inference in Biology ☁️🕸️
 Implementation of classical network reconstruction algorithms
-Focus: network inference, comparison, benchmarking
+Focus: network inference, benchmarking
 
 → [Take a peek](https://github.com/jorguz07/NetReeng)
 
@@ -51,8 +51,8 @@ Focus: optimization and ODE modeling, numerical implementation
 ## Current Focus
 
 - Improving project structure and modularization
-- Adding testing and documentation 
 - Deep learning with PyTorch
+- LLMs and agents
 
 ---
 
