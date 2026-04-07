@@ -26,7 +26,7 @@ I work on statistical modeling, machine learning and mechanistic approaches for 
 ## Selected Projects
 
 ### Drug Synergy Prediction 💊🧬
-End-to-end ML pipeline for drug combination data
+End-to-end ML pipeline for drug combination data  
 Focus: project structure, modularization, good coding practices
 
 <img width="459" height="365" alt="drug_interaction_network" src="https://github.com/user-attachments/assets/507f359e-0a50-425a-b89f-7dfd9da7934c" />
@@ -35,13 +35,13 @@ Focus: project structure, modularization, good coding practices
 → [Check it out!](https://github.com/jorguz07/drugsynergy)
 
 ### Network Inference in Biology ☁️🕸️
-Implementation of classical network reconstruction algorithms
+Implementation of classical network reconstruction algorithms  
 Focus: network inference, benchmarking
 
 → [Take a peek](https://github.com/jorguz07/NetReeng)
 
 ### Modeling of Adaptive Transport Networks in Biology 🩸🕸️
-Simulation of vascularity in network systems
+Simulation of vascularity in network systems  
 Focus: optimization and ODE modeling, numerical implementation
 
 → [Let's go](https://github.com/jorguz07/BloodNets)
