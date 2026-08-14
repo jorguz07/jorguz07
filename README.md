@@ -1,18 +1,18 @@
 # Hola! 🌮
 
-I'm a computational biologist and data scientist with a background in physics and applied mathematics.
+I'm a data scientist with an interdisciplinary background in physics, applied mathematics and computational biology.
 
-I work on statistical modeling, machine learning and mechanistic approaches for biomedical data, with a focus on interpretability.
+I work on statistical modeling and machine learning approaches for complex data, with a focus on interpretability and practical applications
 
 ---
 
 ## Interests
 
-- Statistical and machine learning methods for omics data  
-- Network modeling and inference  
-- Hybrid mechanistic / data-driven models
-- Reproducible workflows  
-
+- Statistical modeling and data science
+- Machine learning and applied AI
+- Network modeling and inference
+- Biomedical data analysis
+  
 ---
 
 ## Background
@@ -35,24 +35,31 @@ Focus: project structure, modularization, good coding practices
 → [Check it out!](https://github.com/jorguz07/drugsynergy)
 
 ### Network Inference in Biology ☁️🕸️
-Implementation of classical network reconstruction algorithms  
-Focus: network inference, benchmarking
+Implementation and benchmarking of classical network reconstruction algorithms  
+Focus: network inference, statistical modeling and evaluation
 
 → [Take a peek](https://github.com/jorguz07/NetReeng)
 
 ### Modeling of Adaptive Transport Networks in Biology 🩸🕸️
 Simulation of vascularity in network systems  
-Focus: optimization and ODE modeling, numerical implementation
+Focus: optimization, ODE modeling and numerical implementation
 
 → [Let's go](https://github.com/jorguz07/BloodNets)
 
 ---
 
+## Experiments and Notes
+
+Short projects exploring machine learning, AI and statistical methods 
+
+---
+
 ## Current Focus
 
-- Improving project structure and modularization
+- Data science and applied AI
 - Deep learning with PyTorch
 - LLMs and agents
+- Improving project structure and modularization
 
 ---
 
