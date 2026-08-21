@@ -2,7 +2,7 @@
 
 I'm a data scientist with an interdisciplinary background in physics, applied mathematics and computational biology.
 
-I work on statistical modeling and machine learning approaches for complex data, with a focus on interpretability and practical applications
+I work on statistical modeling, machine learning and AI, with a focus on interpretable models and complex systems
 
 ---
 
