@@ -1,17 +1,15 @@
 # Hola! 🌮
 
-I'm a data scientist with an interdisciplinary background in physics, applied mathematics and computational biology.
-
-I work on statistical modeling, machine learning and AI, with a focus on interpretable models and complex systems
+I'm a data scientist with a rather diverse background in physics, applied mathematics and computational biology.
 
 ---
 
 ## Interests
 
-- Statistical modeling and data science
-- Machine learning and applied AI
+- Statistical modeling and machine learning
+- Modern AI methods and practical applications
 - Network modeling and inference
-- Biomedical data analysis
+- Applications in industry and biomedicine
   
 ---
 
@@ -50,16 +48,16 @@ Focus: optimization, ODE modeling and numerical implementation
 
 ## Experiments and Notes
 
-Short projects exploring machine learning, AI and statistical methods 
+Short projects exploring tools and methods
 
 ---
 
 ## Current Focus
 
-- Data science and applied AI
+- Modern AI methods, including LLMs and agents
+- Tabular machine learning and time series
 - Deep learning with PyTorch
-- LLMs and agents
-- Improving project structure and modularization
+- Improving project structure, modularity and reproducibility
 
 ---
 
